@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://kevincastelan.issmar.com/assets/logo.png" alt="kevin.awd" height="34"/>
+<img src="https://kevincastelan.issmar.com/assets/logo.png" alt="kevin.awd" height="40"/>
+<br><br>
 
 <p><strong>Full Stack Developer</strong></p>
 

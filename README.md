@@ -2,8 +2,6 @@
 
 <img src="https://kevincastelan.issmar.com/assets/logo.png" alt="kevin.awd" height="34"/>
 
----
-
 <p><strong>Full Stack Developer</strong></p>
 
 <a href="https://www.linkedin.com/in/kevin-castelan-a0a6a7292/" target="_blank">

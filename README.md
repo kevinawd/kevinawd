@@ -33,7 +33,7 @@ I'm a developer with over **3 years of experience** building digital solutions e
 <img src="https://kevincastelan.issmar.com/assets/my-stack.png" alt="my.stack" height="28"/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,astro,tailwind,nodejs,php,mysql,figma,git,github,linux,arduino&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,astro,tailwind,nodejs,php,mysql,figma,git,github,linux,arduino,npm&perline=8" />
 </p>
 
 <img src="https://kevincastelan.issmar.com/assets/in-progress.png" alt="in.progress" height="28"/>

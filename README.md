@@ -46,13 +46,19 @@ I'm a developer with over **3 years of experience** building digital solutions e
 
 <img src="https://kevincastelan.issmar.com/assets/experiencie-in.png" alt="experience.in" height="28"/>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/ERP%20%26%20Business%20Systems-EA580C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Education%20Plataforms-6366F1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/E--commerce-CBAF24?style=for-the-badge"/>
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Events%20Plataforms-DB2777?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Multibranch%20POS-0891B2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Landing%20Pages-7C3AED?style=for-the-badge"/>
-</p>
+</div>
 
-Full-stack applications with a focus on clean architecture, responsive design, and optimized user experiences.
+<br>
+<div align="center">
+  Full-stack applications with a focus on clean architecture, responsive design, and optimized user experiences.
+</div>
